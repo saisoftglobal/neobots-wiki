@@ -1,5 +1,5 @@
 <!--TITLE: Automation Commands -->
-<!-- SUBTITLE: an overview of available commands in taskt. -->
+<!-- SUBTITLE: an overview of available commands in neobots. -->
 ## Automation Commands
 ### API Commands
 | Sub Group   	| Command Name 	|  Command Description	|
@@ -13,10 +13,10 @@
 | ---                | ---           | ---                   |
 |Application|[Start Application](/application-script-commands/start-application-command.md)|This command allows you to start a program or a process.|
 |Application|[Stop Application](/application-script-commands/stop-application-command.md)|This command allows you to stop a program or a process.|
-|taskt Script File|[Load Script File](/application-script-commands/load-script-file-command.md)|This command pre-loads tasks for future execution.|
-|taskt Script File|[Run Script File](/application-script-commands/run-script-file-command.md)|This command runs tasks.|
-|taskt Script File|[Stop Current Script File](/application-script-commands/stop-current-script-file-command.md)|This command stops the current task.|
-|taskt Script File|[Unload Script File](/application-script-commands/unload-script-file-command.md)|This command runs tasks.|
+|neobots Script File|[Load Script File](/application-script-commands/load-script-file-command.md)|This command pre-loads tasks for future execution.|
+|neobots Script File|[Run Script File](/application-script-commands/run-script-file-command.md)|This command runs tasks.|
+|neobots Script File|[Stop Current Script File](/application-script-commands/stop-current-script-file-command.md)|This command stops the current task.|
+|neobots Script File|[Unload Script File](/application-script-commands/unload-script-file-command.md)|This command runs tasks.|
 |Windows Script File|[Run Batch Script File](/application-script-commands/run-batch-script-file-command.md)|This command allows you to run a script or program and wait for it to exit before proceeding.|
 |Windows Script File|[Run CSharp Code](/application-script-commands/run-csharp-code-command.md)|This command allows you to run C# code from the input|
 |Windows Script File|[Run PowerShell Script File](/application-script-commands/run-powershell-script-file-command.md)|This command allows you to run a powershell script and wait for it to exit before proceeding.|
@@ -131,12 +131,12 @@
 | Sub Group   	| Command Name 	|  Command Description	|
 | ---                | ---           | ---                   |
 ||[Error Handling](/engine-commands/error-handling-command.md)|This command specifies what to do  after an error is encountered.|
-||[Get BotStore Data](/engine-commands/get-botstore-data-command.md)|This command allows you to get data from tasktServer.|
+||[Get BotStore Data](/engine-commands/get-botstore-data-command.md)|This command allows you to get data from neobotsServer.|
 ||[Pause Script](/engine-commands/pause-script-command.md)|This command pauses the script for a set amount of time specified in milliseconds.|
 ||[Set Engine Delay](/engine-commands/set-engine-delay-command.md)|This command allows you to set delays between execution of commands in a running instance.|
 ||[Set Engine Preference](/engine-commands/set-engine-preference-command.md)|This command allows you to set preferences for engine behavior.|
 ||[Show Engine Context](/engine-commands/show-engine-context-command.md)|This command allows you to show a message to the user.|
-||[Upload BotStore Data](/engine-commands/upload-botstore-data-command.md)|This command allows you to upload data to a local tasktServer bot store|
+||[Upload BotStore Data](/engine-commands/upload-botstore-data-command.md)|This command allows you to upload data to a local neobotsServer bot store|
 ### Error Handling Commands
 | Sub Group   	| Command Name 	|  Command Description	|
 | ---                | ---           | ---                   |
@@ -354,8 +354,8 @@
 ### Remote Commands
 | Sub Group   	| Command Name 	|  Command Description	|
 | ---                | ---           | ---                   |
-||[Remote API](/remote-commands/remote-api-command.md)|This command allows you to execute automation against another taskt Client.|
-||[Remote Task](/remote-commands/remote-task-command.md)|This command allows you to execute a task remotely on another taskt instance|
+||[Remote API](/remote-commands/remote-api-command.md)|This command allows you to execute automation against another neobots Client.|
+||[Remote Task](/remote-commands/remote-task-command.md)|This command allows you to execute a task remotely on another neobots instance|
 ### StopWatch Commands
 | Sub Group   	| Command Name 	|  Command Description	|
 | ---                | ---           | ---                   |
@@ -476,8 +476,8 @@
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
 
 
 This page was generated on 04/02/23 03:36 PM
