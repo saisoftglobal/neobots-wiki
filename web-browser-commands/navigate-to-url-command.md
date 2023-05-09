@@ -99,7 +99,7 @@ prev / [list](#param_list) / [next](#param_1)
 <dt>What to input</dt><dd>Please specify <strong>True</strong> or <strong>False</strong></dd>
 <dt>Value</dt><dd>Selection Values (Case Sensitive: No, Whilte-Space Sensitive: Yes)</dd>
 <dt>Sample Usage</dt><dd><strong>True</strong> or  <strong>False</strong></dd>
-<dt>Remarks</dt><dd>Choose if you want to use HTTP or HTTPS for navigation. If no protocol is specified in the URL above, taskt will resort to this choice.<br><br>
+<dt>Remarks</dt><dd>Choose if you want to use HTTP or HTTPS for navigation. If no protocol is specified in the URL above, neobots will resort to this choice.<br><br>
 <strong>Optional</strong><br>Default Value is <strong>True</strong></dd>
 </dl>
 
@@ -146,10 +146,10 @@ prev / [list](#param_list) / [next](#param_1)
 
 ## Developer/Additional Reference
 Automation Class Name: SeleniumBrowserNavigateURLCommand
-Parent Namespace: taskt.Core.Automation.Commands
+Parent Namespace: neobots.Core.Automation.Commands
 This page was generated on 04/02/23 03:36 PM
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
