@@ -70,7 +70,7 @@ prev / [list](#param_list) / [next](#param_1)
 
 
 <dl>
-<dt>What to input</dt><dd>Specify if taskt should remember this instance name after the script has finished executing.</dd>
+<dt>What to input</dt><dd>Specify if neobots should remember this instance name after the script has finished executing.</dd>
 <dt>Value</dt><dd>Selection Values (Case Sensitive: No, Whilte-Space Sensitive: Yes)</dd>
 <dt>Sample Usage</dt><dd><strong>Forget Instance</strong> or  <strong>Keep Instance Alive</strong></dd>
 <dt>Remarks</dt><dd>Calling the <strong>Close Browser</strong> command or ending the browser session will end the instance.  This command only works during the lifetime of the application.  If the application is closed, the references will be forgetten automatically.<br><br>
@@ -132,7 +132,7 @@ prev / [list](#param_list) / [next](#param_1)
 
 <dl>
 <dt>What to input</dt><dd>Enter or Select the Command Line Options</dd>
-<dt>Sample Usage</dt><dd>user-data-dir=c:\users\public\SeleniumTasktProfile</dd>
+<dt>Sample Usage</dt><dd>user-data-dir=c:\users\public\SeleniumneobotsProfile</dd>
 <dt>Remarks</dt><dd><strong>Optional</strong><br></dd>
 </dl>
 
@@ -178,7 +178,7 @@ prev / [list](#param_list) / [next](#param_1)
 <dl>
 <dt>What to input</dt><dd>Enter or Select the WebBrowser Binary Path</dd>
 <dt>Sample Usage</dt><dd><strong>C:\temp\BrowserPath.exe</strong> or <strong>{vBrowserPath}</strong></dd>
-<dt>Remarks</dt><dd>When path is Empty, taskt try open default path.
+<dt>Remarks</dt><dd>When path is Empty, neobots try open default path.
 Edge and IE is not supported.
 If you use a fixed web browser version, use this parameter.<br><br>
 <strong>Optional</strong><br>Default Value is <strong>Empty</strong></dd>
@@ -210,7 +210,7 @@ If you use a fixed web browser version, use this parameter.<br><br>
 <dl>
 <dt>What to input</dt><dd>Enter or Select the WebDriver Binary Path</dd>
 <dt>Sample Usage</dt><dd><strong>C:\temp\WebDriverPath.exe</strong> or <strong>{vBrowserPath}</strong></dd>
-<dt>Remarks</dt><dd>When path is Empty, taskt uses default WebDriver.
+<dt>Remarks</dt><dd>When path is Empty, neobots uses default WebDriver.
 IE is not supported.
 If you use a fixed web browser version, use this parameter.<br><br>
 <strong>Optional</strong><br>Default Value is <strong>Empty</strong></dd>
@@ -259,10 +259,10 @@ If you use a fixed web browser version, use this parameter.<br><br>
 
 ## Developer/Additional Reference
 Automation Class Name: SeleniumBrowserCreateCommand
-Parent Namespace: taskt.Core.Automation.Commands
+Parent Namespace: neobots.Core.Automation.Commands
 This page was generated on 04/02/23 03:36 PM
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
