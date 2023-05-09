@@ -32,7 +32,7 @@ Use this command when you want to log custom data to a file for debugging or ana
 <dt>What to input</dt><dd>Indicate the file name where logs should be appended to</dd>
 <dt>Value</dt><dd>Selection Values (Case Sensitive: No, Whilte-Space Sensitive: Yes)</dd>
 <dt>Sample Usage</dt><dd><strong>Engine Logs</strong></dd>
-<dt>Remarks</dt><dd>Date and Time will be automatically appended to the file name.  Logs are all saved in taskt Root\Logs folder</dd>
+<dt>Remarks</dt><dd>Date and Time will be automatically appended to the file name.  Logs are all saved in neobots Root\Logs folder</dd>
 </dl>
 
 
@@ -94,10 +94,10 @@ prev / [list](#param_list) / [next](#param_1)
 
 ## Developer/Additional Reference
 Automation Class Name: LogDataCommand
-Parent Namespace: taskt.Core.Automation.Commands
+Parent Namespace: neobots.Core.Automation.Commands
 This page was generated on 04/02/23 03:36 PM
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
