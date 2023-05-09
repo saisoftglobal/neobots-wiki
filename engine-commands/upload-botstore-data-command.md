@@ -10,7 +10,7 @@ Engine Commands &gt; Upload BotStore Data
 
 
 ## What does this command do?
-This command allows you to upload data to a local tasktServer bot store
+This command allows you to upload data to a local neobotsServer bot store
 
 
 ## When would I want to use this command?
@@ -143,10 +143,10 @@ prev / [list](#param_list) / [next](#param_1)
 
 ## Developer/Additional Reference
 Automation Class Name: UploadBotStoreDataCommand
-Parent Namespace: taskt.Core.Automation.Commands
+Parent Namespace: neobots.Core.Automation.Commands
 This page was generated on 04/02/23 03:36 PM
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
