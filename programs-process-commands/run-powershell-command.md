@@ -14,7 +14,7 @@ This command allows you to run a powershell script and wait for it to exit befor
 
 
 ## When would I want to use this command?
-Use this command when you want to run a powershell script and wait for it to close before taskt continues executing.
+Use this command when you want to run a powershell script and wait for it to close before neobots continues executing.
 
 
 <a id="param_list"></a>
@@ -141,10 +141,10 @@ prev / [list](#param_list) / [next](#param_1)
 
 ## Developer/Additional Reference
 Automation Class Name: RunPowershellCommand
-Parent Namespace: taskt.Core.Automation.Commands
+Parent Namespace: neobots.Core.Automation.Commands
 This page was generated on 03/21/23 01:49 PM
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
