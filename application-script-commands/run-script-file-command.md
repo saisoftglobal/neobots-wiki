@@ -3,7 +3,7 @@
 [Go To Automation Commands Overview](/automation-commands.md)
 
 
-Application/Script Commands &gt; taskt Script File &gt; Run Script File
+Application/Script Commands &gt; neobots Script File &gt; Run Script File
 
 
 # Run Script File Command
@@ -160,10 +160,10 @@ prev / [list](#param_list) / [next](#param_1)
 
 ## Developer/Additional Reference
 Automation Class Name: RunScriptFileCommand
-Parent Namespace: taskt.Core.Automation.Commands
+Parent Namespace: neobots.Core.Automation.Commands
 This page was generated on 04/02/23 03:36 PM
 
 
 ## Help
-- [Open/Report an issue on GitHub](https://github.com/rcktrncn/taskt/issues/new)
-- [Ask a question on Gitter](https://gitter.im/taskt-rpa/Lobby)
+- [Open/Report an issue on GitHub](https://github.com/rcktrncn/neobots/issues/new)
+- [Ask a question on Gitter](https://gitter.im/neobots-rpa/Lobby)
